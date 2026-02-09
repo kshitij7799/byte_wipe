@@ -20,6 +20,8 @@ const predefinedResponses = {
     "ByteWipe is a secure, cross-platform data wiping application that works on Windows, Linux, and Android devices. It ensures complete data destruction including hidden storage areas.",
   "how secure":
     "ByteWipe uses military-grade wiping algorithms and targets hidden storage areas like HPA/DCO and SSD spare sectors. All operations generate tamper-proof, digitally signed certificates.",
+    "what is hpa and dco":
+    "HPA (Host Protected Area) and DCO (Device Configuration Overlay) are hidden storage areas on hard drives that can store sensitive data. ByteWipe can secdurly wipe these areas to ensure complete data destruction.",
   platforms:
     "ByteWipe supports Windows, Linux, and Android platforms with native applications for each operating system.",
   certificate:
