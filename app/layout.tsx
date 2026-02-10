@@ -7,7 +7,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'BitWipe App',
   description: 'Created by KSHITIJ',
-  generator: 'KSHITIJ',
+  generator: 'KSHITIJ PANDEY',
 }
 
 export default function RootLayout({
